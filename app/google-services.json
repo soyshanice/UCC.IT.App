@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "643976787215",
+    "project_id": "ucc-it-app-680bd",
+    "storage_bucket": "ucc-it-app-680bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643976787215:android:4f704969586e011318fa7a",
+        "android_client_info": {
+          "package_name": "com.example.uccitapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643976787215-q1fvblcnku4qk4n3g93ra6gam5197q0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMwEANk__IKK_0GOaynhRVAM_XGfV6dgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643976787215-q1fvblcnku4qk4n3g93ra6gam5197q0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
